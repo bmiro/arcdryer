@@ -1,0 +1,7 @@
+- Does not boot always with potenciomenter plugged
+- Test PWM 1 fan
+- Test PWM múltiple fans
+- Define UI
+- Document project bootstrap
+    - https://www.youtube.com/watch?v=b8254--ibmM
+    - https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/
