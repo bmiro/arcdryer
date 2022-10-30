@@ -5,3 +5,5 @@
 - Document project bootstrap
     - https://www.youtube.com/watch?v=b8254--ibmM
     - https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/
+    - https://arduino.stackexchange.com/questions/85597/how-to-switch-12v-with-esp32
+    - https://community.home-assistant.io/t/pwm-fan-control-with-esp32/222869/14
